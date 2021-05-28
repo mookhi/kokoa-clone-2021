@@ -1,0 +1,12 @@
+.badge-notification {
+    position: absolute;
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+}
+
+.badge-notification--lg {
+    width: 7px;
+    height: 7px;
+}
